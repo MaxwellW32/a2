@@ -151,7 +151,7 @@ export const globalFormData: globalFormDataType = {
       "websiteName": "YourRestaurant",
       "websiteTitle": "YourRestaurant`}` - Savor Every Bite",
       "websiteDescription": "Discover mouth-watering dishes and exceptional dining experiences.",
-      "logo": "/localImages/logo.png",
+      "logo": "https://images.pexels.com/photos/12079147/pexels-photo-12079147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "opengraphLogo": "",
       "email": "info@YourRestaurant.com",
       "workingHours": [
